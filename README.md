@@ -20,7 +20,7 @@ Numbered directories:
 
 - `1. Information-gathering/` – Reconnaissance techniques, OSINT, scanning, and enumeration notes.  
 - `2. web vulnerability analysis/` – Notes and examples on web application vulnerabilities.  
-- `3. Exploitation/` – Exploit development, usage, and testing notes.  
+- `3. Exploitation/` – AD Atacks, Exploit techniques, usage, and testing notes.  
 - `4. shells and initial access/` – Techniques for establishing a foothold in a target environment.  
 - `5. post-exploitation/` – Privilege escalation, credential collection, and host-level post-exploitation.  
 - `6. Methodology and checklists/` – Structured methodologies and checklists for penetration testing.
