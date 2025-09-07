@@ -1,12 +1,12 @@
 <div align="center">
-  <img width="214" height="214" alt="image" src="https://github.com/user-attachments/assets/41c9fca4-9cb1-465a-966b-a66e8641a73f" />
+  <img width="214" height="214" alt="image" src="https://images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" />
 </div>
 
 ## Overview
 
 
 
-This repository contains my structured notes and walkthroughs designed to support preparation for the **CPTS exam**, as well as Pentests and CTF challenges. It documents attack chains from external reconnaissance to internal network/domain exploration and post-exploitation.  
+This repository contains my structured notes and walkthroughs designed to support preparation for the **CPTS exam**, as well as Pentests and CTF challenges. It documents attack chains from external reconnaissance to internal network/domain compromise and post-exploitation.  
 
 > ⚠️ **Note:** This guide is **not definitive**. You should always build your **own methodology and notes**, tailored to your learning style and lab environments. Use this repository only as a **reference** or starting point.
 
