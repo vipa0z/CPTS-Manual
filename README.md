@@ -1,1 +1,2 @@
 A collection of my penetration testing notes and cheatsheets covering a wide range of topics (mainly vulnerability discovery in AD & Internal networks, Blackbox Web App Security testing, API Security testing and the OWASP TOP 10) compiled from Complete CPTS, CWES (minus web fuzzing/broken auth), PortSwigger Academy, API University, personal research, and various sources such as Ippsec, Hacktricks, Payloads All The Things, and various labs.
+https://vipa0z.github.io/cheatsheets
